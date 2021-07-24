@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sony Six" tvg-logo="" group-title="Sports",
+http://etv.roarzone.info:8081/thunderbd/24/chunks.m3u8?nimblesessionid=3105985&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6MjE6MTYgUE0maGFzaF92YWx1ZT1GRjhLemxiV2RSaUZwcUZjNFJIbk9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ten 1" tvg-logo="" group-title="Sports",
+http://etv.roarzone.info:8081/thunderbd/20/chunks.m3u8?nimblesessionid=3106389&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6MjQ6MTYgUE0maGFzaF92YWx1ZT1uaHliRzFMUHpxVkxkSGFuKzVDNlJRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ten 2" tvg-logo="" group-title="Sports",
+http://etv.roarzone.info:8081/thunderbd/21/chunks.m3u8?nimblesessionid=3106566&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6MjY6MTMgUE0maGFzaF92YWx1ZT1PYWgvaFE0MU45RlYzQVBzbWNaWk5RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ten 2" tvg-logo="" group-title="Sports",
+http://etv.roarzone.info:8081/thunderbd/22/chunks.m3u8?nimblesessionid=3106704&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6Mjc6NDggUE0maGFzaF92YWx1ZT13K1c2UlNQYitRNFBxVzBjRXFoTU5RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="T sports" tvg-logo="" group-title="Sports",
+http://etv.roarzone.info:8081/thunderbd/102/chunks.m3u8?nimblesessionid=3106911&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6Mjk6MjkgUE0maGFzaF92YWx1ZT1kOVFhallXYXkzYTNhL05uNzJsQldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="star sports 1" tvg-logo="" group-title="Sports",
+http://etv.roarzone.info:8081/thunderbd/25/chunks.m3u8?nimblesessionid=3107116&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6MzE6MDcgUE0maGFzaF92YWx1ZT0wRS94Y0VPOFA0dDFyN2dvamszVXlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ESPN" tvg-logo="" group-title="Sports",
+http://etv.roarzone.info:8081/thunderbd/23/chunks.m3u8?nimblesessionid=3107344&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDE6MzI6NDMgUE0maGFzaF92YWx1ZT10QWIyV3NPUDJad1VrQWhId3UzS2tBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Star Sports" tvg-logo="" group-title="Sports",
+http://stream.amrbd.com:8082/Bein/tracks-v1a1/mono.m3u8?token=3fa22f87161a68b54621dedd993a9cf255b5e23d-8e577838acd40cfa5489239db2b0bcec-1627144257-1627133457
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Abu Dhabi Sports 1" tvg-logo="" group-title="Sports"
+http://stream.amrbd.com:8082/Adsports1/tracks-v1a1/2021/07/24/13/38/21-06000.ts?token=d65d9e9fc81cc87b056311b07ad9fdba4677a01a-9e06c01987cf4cbfb8cabbb93cd8fc41-1627144367-1627133567
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="YAS" tvg-logo="" group-title="Sports"
+http://stream.amrbd.com:8082/Adsports2/tracks-v1a1/2021/07/24/13/41/57-06000.ts?token=c8acc7b5fe4a53702b39216f5b1a8fc44f8f4789-566ee19ae5d4eb249dd2be8b344c1f9e-1627144552-1627133752
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Abu Dhabi Sports 3" tvg-logo="" group-title="Sports"
+http://stream.amrbd.com:8082/Adsports3/tracks-v1/2021/07/24/13/44/30-08240.ts?token=3ab82c703a12c0d94e38d63b443b0f859c642b45-ee25c995c234e5f4c918f6e10ce60cdf-1627144743-1627133943
