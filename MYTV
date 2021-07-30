@@ -1,19 +1,23 @@
 #EXTM3U
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="News",Al Khalij
+#EXTINF:0 tvg-country="SA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTejlBd6gzIyuvl0Z-TUJbFvzEhD-xXxkhUgQ&usqp=CAU" group-title="News",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="News",TRT Arabic
+#EXTINF:0 tvg-country="AR" tvg-logo="https://media-exp3.licdn.com/dms/image/C560BAQHkTaghjFg5HQ/company-logo_200_200/0/1562658737877?e=2159024400&v=beta&t=Y4jqkEWtupJWLz4C88lFbEtN9faax5yzaFVS1Mqrzug" group-title="News",TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic 
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/a7/f4/small_b0eaa16d5857aabc807d2f26496e688438d55790.png" group-title="Religious",Al quran
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1627674998~dirs=1~hash=0ca81b781b444c40d714e/ksaquran.smil/ksaquran_chunks.m3u8
+#EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bf/72/small_046b572b585cf0fc3e512a5c2c0ce57733f35ce3.png" group-title="Religious",As sunnah
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1627675141~dirs=1~hash=07649e9a06fa96533c543/ksasunna.smil/ksasunna_chunks.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="Religious",Al Istiqama TV,Al-Istiqama TV
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="Religious",Al-Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE;US" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Sharjah 2,Sharjah TV 2
+#EXTINF:0 tvg-country="AE;US" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -27,11 +31,11 @@ http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/709?checkedby:iptvcat.c
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/711?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Science",NASA TV
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Documentary",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-country="RU" tvg-language="English;Russian" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Animal_Planet" tvg-logo="" group-title="Documentary",Animal_Planet
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Animal_Planet" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="Documentary",Animal Planet
 http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=9cfcca918dba1c4a83009cc40c8dceebb64be177-2d8316c1061d1b27b09c6fd0660f5165-1627505736-1627494936
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -43,13 +47,13 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Entertainment",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Entertainment",ATV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/547/320/png-transparent-turkey-atv-television-channel-television-show-others-television-text-orange-thumbnail.png" group-title="Entertainment",ATV
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10792?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Entertainment",TRT 1
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Entertainment",TRT 1
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10790?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BN" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Entertainment",Dipto TV
 http://etv.roarzone.info:8081/thunderbd/8/chunks.m3u8?nimblesessionid=3549565&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDI6MzU6NDEgUE0maGFzaF92YWx1ZT04UzVkUWxqSDJYYlV1QTg5RWduRDlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.espn.com/photo/2019/0828/r589718_600x600_1-1.png" group-title="Sport",ESPN
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/725?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
@@ -59,7 +63,7 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",Dubai Zaman
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="General",Dubai Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Entertainment",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -71,7 +75,7 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Entertainment",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Undefined",MBC 5
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Entertainment",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Entertainment",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
@@ -81,7 +85,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Entertainment",MBC Max HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Entertainment",MBC Drama PLUS
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="Entertainment",MBC Drama PLUS
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sport",Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:iptvcat.com
@@ -93,3 +97,5 @@ http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="General",Al Dhafra TV
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://saudiatv.sa/assets/images/logo.jpg" group-title="General",Assaudiyah
+https://cllive.itworkscdn.net/ksa1live/token=nva=1627674513~dirs=1~hash=0eb7784c410ff212000c4/ksa1.smil/ksa1_480p_chunks.m3u8
