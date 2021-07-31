@@ -10,23 +10,19 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_ar
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/a7/f4/small_b0eaa16d5857aabc807d2f26496e688438d55790.png" group-title="Religious",Al quran
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1627674998~dirs=1~hash=0ca81b781b444c40d714e/ksaquran.smil/ksaquran_chunks.m3u8
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1627746458~dirs=1~hash=0d1147d8880e254e81e0b/ksaquran.smil/ksaquran_480p_chunks.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bf/72/small_046b572b585cf0fc3e512a5c2c0ce57733f35ce3.png" group-title="Religious",As sunnah
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1627675141~dirs=1~hash=07649e9a06fa96533c543/ksasunna.smil/ksasunna_chunks.m3u8
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1627746566~dirs=1~hash=0431187acfa4d8c9dc509/ksasunna.smil/ksasunna_chunks.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="Religious",Al-Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE;US" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE;BN" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Peacetv Bangla
-https://s1.bdtv.xyz:2096/token/peacetv/chunks.m3u8?nimblesessionid=1307387&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEwOjU1OjA2IEFNJmhhc2hfdmFsdWU9RWlBeGZqdStJeUxQU1RlN1hPaFBJQT09JnZhbGlkbWludXRlcz01
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Kids",Duronto
-https://bdlivetv.xyz:2096/token/deepto/chunks.m3u8?nimblesessionid=50165&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEwOjQ3OjI4IEFNJmhhc2hfdmFsdWU9L3dhZXhEaG1yTXUxc0NBeEtremRkdz09JnZhbGlkbWludXRlcz01
 #EXTINF:0 tvg-country="US" tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png" group-title="Documentary",Discovery (East)
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/709?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmI6HDDgHZ8NVS2Xp5xfbp-Q_McnhraKJuj-L47zYKt2OCHM2L6O_uFTcWKBJ-PcHtgnc&usqp=CAU" group-title="Documentary",National Geographic [Bangla]
@@ -53,8 +49,6 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?chec
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10792?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Entertainment",TRT 1
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10790?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BN" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Entertainment",Dipto TV
-http://etv.roarzone.info:8081/thunderbd/8/chunks.m3u8?nimblesessionid=3549565&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDI6MzU6NDEgUE0maGFzaF92YWx1ZT04UzVkUWxqSDJYYlV1QTg5RWduRDlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.espn.com/photo/2019/0828/r589718_600x600_1-1.png" group-title="Sport",ESPN
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/725?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
@@ -100,4 +94,4 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="AE" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="General",Al Dhafra TV
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://saudiatv.sa/assets/images/logo.jpg" group-title="General",Assaudiyah
-https://cllive.itworkscdn.net/ksa1live/token=nva=1627674513~dirs=1~hash=0eb7784c410ff212000c4/ksa1.smil/ksa1_480p_chunks.m3u8
+https://cllive.itworkscdn.net/ksa1live/token=nva=1627747626~dirs=1~hash=046daa5f0b61d49145c23/ksa1.smil/ksa1_chunks.m3u8
