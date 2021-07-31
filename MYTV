@@ -33,6 +33,8 @@ http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/711?checkedby:iptvcat.c
 http://etv.roarzone.info:8081/thunderbd/35/chunks.m3u8?nimblesessionid=3599162&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEwOjA5OjQwIEFNJmhhc2hfdmFsdWU9L2xERkFZS2F1OGs3Vk94akFubjRRUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",Nat Geo Wild
+https://live.bdtv.xyz:2096/token/natgeowild/chunks.m3u8?nimblesessionid=1307216&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEwOjMwOjM0IEFNJmhhc2hfdmFsdWU9ZFMvUFpWR2NwMW1aczNSdUJzY0twZz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Documentary",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-country="RU" tvg-language="English;Russian" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary
