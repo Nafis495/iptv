@@ -19,17 +19,17 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?ch
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE;US" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE;BN" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Peacetv Bangla
+https://s1.bdtv.xyz:2096/token/peacetv/chunks.m3u8?nimblesessionid=1307387&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEwOjU1OjA2IEFNJmhhc2hfdmFsdWU9RWlBeGZqdStJeUxQU1RlN1hPaFBJQT09JnZhbGlkbWludXRlcz01
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Kids",Duronto
-http://etv.roarzone.info:8081/thunderbd/10/chunks.m3u8?nimblesessionid=3547795&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDI6MjA6MTMgUE0maGFzaF92YWx1ZT04M3RYWjVqNlI4OEZ1QUFZVGFrQUxBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://bdlivetv.xyz:2096/token/deepto/chunks.m3u8?nimblesessionid=50165&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEwOjQ3OjI4IEFNJmhhc2hfdmFsdWU9L3dhZXhEaG1yTXUxc0NBeEtremRkdz09JnZhbGlkbWludXRlcz01
 #EXTINF:0 tvg-country="US" tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png" group-title="Documentary",Discovery (East)
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/709?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png" group-title="Documentary",Discovery (West)
-http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/711?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic
+#EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmI6HDDgHZ8NVS2Xp5xfbp-Q_McnhraKJuj-L47zYKt2OCHM2L6O_uFTcWKBJ-PcHtgnc&usqp=CAU" group-title="Documentary",National Geographic [Bangla]
 http://etv.roarzone.info:8081/thunderbd/35/chunks.m3u8?nimblesessionid=3599162&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEwOjA5OjQwIEFNJmhhc2hfdmFsdWU9L2xERkFZS2F1OGs3Vk94akFubjRRUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
