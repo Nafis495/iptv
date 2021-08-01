@@ -9,6 +9,8 @@ https://tv-trtarabi.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://w7.pngwing.com/pngs/166/898/png-transparent-saudi-arabia-rotana-records-television-mbc-streaming-media-orange-sky-television-text-orange-thumbnail.png" group-title="News",Rutana Khalijiyah
+https://dai.google.com/linear/hls/pb/event/Ow9HolmDThGX9-D9EOdrHw/stream/1a1639a9-bc50-49a1-b710-362166140bf4:SIN/variant/3cacf96261c74bbf8357477290e8a19a/bandwidth/474164.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/a7/f4/small_b0eaa16d5857aabc807d2f26496e688438d55790.png" group-title="Religious",Al quran
 https://cllive.itworkscdn.net/ksaquranlive/token=nva=1627833274~dirs=1~hash=0b89eea5349e27d52c407/ksaquran.smil/ksaquran_480p_chunks.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bf/72/small_046b572b585cf0fc3e512a5c2c0ce57733f35ce3.png" group-title="Religious",As sunnah
@@ -97,3 +99,6 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.co
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://saudiatv.sa/assets/images/logo.jpg" group-title="General",Assaudiyah
 https://cllive.itworkscdn.net/ksa1live/token=nva=1627833164~dirs=1~hash=023b98cb072177934b98e/ksa1.smil/ksa1_480p_chunks.m3u8
+#EXTINF:0 tvg-country="SA" tvg-logo="https://e1.elaphjournal.com/resources/images/Entertainment/2020/03/week4/bc0f40b861997504e9e0836097161d06.jpg" group-title="Kids",Rutana Kids
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_480p/chunks.m3u8?p=48&s=1627829585&e=1627915985&cf=1627915985&h=f9a49126b59852630cc7d0bf4e27ece2
+
