@@ -3,8 +3,8 @@
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Mubasher
-https://list.iptvcat.com/my_list/s/4a3db6853bcb0e7e9bac4a7eff5c8cc9.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RTArabic.png" group-title="News",RT Arabic
+https://list.iptvcat.com/my_list/s/5b07429abf203ab8c712c2843817bfb4.m3u8
 #EXTINF:0 tvg-country="AR" tvg-logo="https://media-exp3.licdn.com/dms/image/C560BAQHkTaghjFg5HQ/company-logo_200_200/0/1562658737877?e=2159024400&v=beta&t=Y4jqkEWtupJWLz4C88lFbEtN9faax5yzaFVS1Mqrzug" group-title="News",TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic 
@@ -23,14 +23,12 @@ https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?chec
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png" group-title="Documentary",Discovery (East)
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/709?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQC6hCDe4sjvwrrey-qgUA0HWe_0OfCd-7ghP_i-g=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",TLC
-https://list.iptvcat.com/my_list/s/bc134305f86c9ceb586a5b226b3abc56.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Documentary",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-country="RU" tvg-language="English;Russian" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+https://list.iptvcat.com/my_list/s/a25adabbd3dcd36de7125533f9eca34a.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Animal_Planet" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="Documentary",Animal Planet
 https://list.iptvcat.com/my_list/s/87f8fb49e2b72c548727c80412561874.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
@@ -101,8 +99,8 @@ https://cllive.itworkscdn.net/ksasunnalive/token=nva=1627833345~dirs=1~hash=0ccf
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_240p/chunks.m3u8?p=50&s=1627837883&e=1627924283&cf=1627924283&h=0bef19c1da0ccbfc3860fbf0cc27b44c
 #EXTINF:0 tvg-country="SA" tvg-logo="https://e1.elaphjournal.com/resources/images/Entertainment/2020/03/week4/bc0f40b861997504e9e0836097161d06.jpg" group-title="Kids",Rutana Kids
 https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_480p/chunks.m3u8?p=48&s=1627829585&e=1627915985&cf=1627915985&h=f9a49126b59852630cc7d0bf4e27ece2
-#EXTINF:0 tvg-country="SA" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Felcinema.com%2Fen%2Ftvguide%2F1358%2F&psig=AOvVaw1IENti-bBX1shWUc7No_1H&ust=1627927841651000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLCByZm2kPICFQAAAAAdAAAAABAK" group-title="Entertainment",Rutana Comedy
+#EXTINF:0 tvg-country="SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="Entertainment",Rutana Comedy
 https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_240p/chunks.m3u8?p=50&s=1627836527&e=1627922927&cf=1627922927&h=35290eda0ad9ac45561cfa3774fe3935
-#EXTINF:0 tvg-country="SA" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="General",LBC
+#EXTINF:0 tvg-country="SA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSTKUO5WW1n745aQd0Dz_3DK57mky3pRASv5dnT=s900-c-k-c0x00ffffff-no-rj" group-title="General",LBC
 https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_360p/chunks.m3u8?p=47&s=1627840509&e=1627926909&cf=1627926909&h=a228911b59517ff7ba42e55dc0e8aa51
 
