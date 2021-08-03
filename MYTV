@@ -99,6 +99,10 @@ https://cllive.itworkscdn.net/ksasunnalive/token=nva=1627968580~dirs=1~hash=0db5
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8?p=50&s=1627952382&e=1628038782&cf=1628038782&h=84cff0fa2e4b1aba7816d7cc753d6b28
 #EXTINF:0 tvg-country="SA" tvg-logo="https://e1.elaphjournal.com/resources/images/Entertainment/2020/03/week4/bc0f40b861997504e9e0836097161d06.jpg" group-title="Kids",Rutana Kids
 https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_240p/chunks.m3u8?p=48&s=1627952388&e=1628038788&cf=1628038788&h=139cff46cf7868e8d6fe994ae5a13718
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i1.wp.com/einfon.com/wp-content/uploads/2016/10/gtv-bangladesh.jpg?fit=452%2C236&ssl=1" group-title="Sport",Gtv
+http://etv.roarzone.info:8081/thunderbd/1/chunks.m3u8?nimblesessionid=3828003&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgMTE6NTE6NTggQU0maGFzaF92YWx1ZT1HcFh1cFE0dFJDTkZFUXQvWGRtdkhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="Sport",T Sports
+
 
 
 
