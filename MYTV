@@ -90,17 +90,15 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="AE" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="General",Al Dhafra TV
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://saudiatv.sa/assets/images/logo.jpg" group-title="General",Assaudiyah
-https://cllive.itworkscdn.net/ksa1live/token=nva=1627833164~dirs=1~hash=023b98cb072177934b98e/ksa1.smil/ksa1_480p_chunks.m3u8
+https://cllive.itworkscdn.net/ksa1live/token=nva=1627968074~dirs=1~hash=00327ac74b0e19541d1d1/ksa1.smil/ksa1_480p_chunks.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/a7/f4/small_b0eaa16d5857aabc807d2f26496e688438d55790.png" group-title="Religious",Al quran
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1627833274~dirs=1~hash=0b89eea5349e27d52c407/ksaquran.smil/ksaquran_480p_chunks.m3u8
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1627968488~dirs=1~hash=0b38866135f3d81f0cb45/ksaquran.smil/ksaquran_480p_chunks.m3u
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bf/72/small_046b572b585cf0fc3e512a5c2c0ce57733f35ce3.png" group-title="Religious",As sunnah
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1627833345~dirs=1~hash=0ccf9393747012183e235/ksasunna.smil/ksasunna_chunks.m3u8
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1627968580~dirs=1~hash=0db5a660902f2d27b5379/ksasunna.smil/ksasunna_480p_chunks.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03fca879848621.Y3JvcCw0NjYsMzY1LDcyNSw2MA.jpg" group-title="Religious",Ar Resalah
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_240p/chunks.m3u8?p=50&s=1627837883&e=1627924283&cf=1627924283&h=0bef19c1da0ccbfc3860fbf0cc27b44c
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8?p=50&s=1627952382&e=1628038782&cf=1628038782&h=84cff0fa2e4b1aba7816d7cc753d6b28
 #EXTINF:0 tvg-country="SA" tvg-logo="https://e1.elaphjournal.com/resources/images/Entertainment/2020/03/week4/bc0f40b861997504e9e0836097161d06.jpg" group-title="Kids",Rutana Kids
-https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_480p/chunks.m3u8?p=48&s=1627829585&e=1627915985&cf=1627915985&h=f9a49126b59852630cc7d0bf4e27ece2
-#EXTINF:0 tvg-country="SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="Entertainment",Rutana Comedy
-https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_240p/chunks.m3u8?p=50&s=1627836527&e=1627922927&cf=1627922927&h=35290eda0ad9ac45561cfa3774fe3935
-#EXTINF:0 tvg-country="SA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSTKUO5WW1n745aQd0Dz_3DK57mky3pRASv5dnT=s900-c-k-c0x00ffffff-no-rj" group-title="General",LBC
-https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_360p/chunks.m3u8?p=47&s=1627840509&e=1627926909&cf=1627926909&h=a228911b59517ff7ba42e55dc0e8aa51
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_240p/chunks.m3u8?p=48&s=1627952388&e=1628038788&cf=1628038788&h=139cff46cf7868e8d6fe994ae5a13718
+
+
 
