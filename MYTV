@@ -96,10 +96,9 @@ https://list.iptvcat.com/my_list/s/c395eb86d05da70eaa61943a0625a673.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bf/72/small_046b572b585cf0fc3e512a5c2c0ce57733f35ce3.png" group-title="Religious",As sunnah
 https://list.iptvcat.com/my_list/s/866ea22220d43bf1ead71ad1df061caa.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03fca879848621.Y3JvcCw0NjYsMzY1LDcyNSw2MA.jpg" group-title="Religious",Ar Resalah
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/l_2446_47812524_11953.ts
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8?p=50&s=1628617708&e=1628704108&cf=1628704108&h=0730284831fb17164d0febb687889df6
 #EXTINF:0 tvg-country="SA" tvg-logo="https://e1.elaphjournal.com/resources/images/Entertainment/2020/03/week4/bc0f40b861997504e9e0836097161d06.jpg" group-title="Kids",Rutana Kids
-https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_360p/l_3118_47640548_11948.ts
-#EXTINF:0 tvg-country="AE" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="Sport",T Sports
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_480p/chunks.m3u8?p=48&s=1628620370&e=1628706770&cf=1628706770&h=14dec5e61d06f687d0a5273e8a9d7609
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Religious",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
