@@ -101,6 +101,11 @@ https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
 https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_480p/chunks.m3u8?p=48&s=1628620370&e=1628706770&cf=1628706770&h=14dec5e61d06f687d0a5273e8a9d7609
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Religious",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-
+#EXTINF:-1 tvg-country="AF" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8626083c232248c5933aedd5741ebfb1.webp" group-title="Afganistan",Tolo News
+https://fflivetolonews.b-cdn.net/media_3.m3u8
+#EXTINF:-1 tvg-country="AF" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo.jpeg" group-title="Afganistan",Tolo tv
+https://fflivetolotv.b-cdn.net/media_0.m3u8
+#EXTINF:-1 tvg-country="AF" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSaQrH04wP6dCMR6PtKsR7SFBTFuoYqbTePxwWJ2Q=s900-c-k-c0x00ffffff-no-rj" group-title="Afganistan",Tolo Music
+https://fflivetolomusic.b-cdn.net/media_0.m3u8
 
 
