@@ -101,7 +101,7 @@ https://list.iptvcat.com/my_list/s/b7229f73dbbc026f23522ab0baade10b.m3u8
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_240p/chunks.m3u8?p=50&s=1629554397&e=1629640797&cf=1629640797&h=9ee68e510a23c8e493bc77958540b657
 #EXTINF:0 tvg-country="SA" tvg-logo="https://e1.elaphjournal.com/resources/images/Entertainment/2020/03/week4/bc0f40b861997504e9e0836097161d06.jpg" group-title="Kids",Rutana Kids
 https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_240p/chunks.m3u8?p=48&s=1629555368&e=1629641768&cf=1629641768&h=3c5e9428acecda7c431e9487fee9330d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Religious",Peace TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="https://store-images.s-microsoft.com/image/apps.6389.13510798884380500.98c14ed6-d58c-44ad-bdcd-afbd471c481f.19c273b0-1d3e-4f57-9a47-d4064b500dca?mode=scale&q=90&h=200&w=200&background=%23464646" group-title="Religious",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
