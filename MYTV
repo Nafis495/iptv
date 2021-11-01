@@ -94,9 +94,9 @@ https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?checkedby:iptv
 #EXTINF:0 tvg-country="SA" tvg-logo="https://saudiatv.sa/assets/images/logo.jpg" group-title="General",Assaudiyah
 https://list.iptvcat.com/my_list/s/bd60273be2dfaf0e178fa035b7fb1a4e.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/a7/f4/small_b0eaa16d5857aabc807d2f26496e688438d55790.png" group-title="Religious",Al quran
-https://list.iptvcat.com/my_list/s/c395eb86d05da70eaa61943a0625a673.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bf/72/small_046b572b585cf0fc3e512a5c2c0ce57733f35ce3.png" group-title="Religious",As sunnah
-https://list.iptvcat.com/my_list/s/b7229f73dbbc026f23522ab0baade10b.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03fca879848621.Y3JvcCw0NjYsMzY1LDcyNSw2MA.jpg" group-title="Religious",Ar Resalah
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_240p/chunks.m3u8?p=50&s=1629554397&e=1629640797&cf=1629640797&h=9ee68e510a23c8e493bc77958540b657
 #EXTINF:0 tvg-country="SA" tvg-logo="https://e1.elaphjournal.com/resources/images/Entertainment/2020/03/week4/bc0f40b861997504e9e0836097161d06.jpg" group-title="Kids",Rutana Kids
