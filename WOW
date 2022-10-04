@@ -13,7 +13,7 @@ https://live.islamchannel.tv/islamtv_english/live.m3u8
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic 
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Aljazeera English
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Aljazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
@@ -88,16 +88,24 @@ http://103.99.249.107:81/play/a006
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 PREMIUM HD AR
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94498?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM HD AR
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeiN Sports 3 AR
+http://103.99.249.107:81/play/a02d
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94494?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94472?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94464?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports XTRA 1 HD AR
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94459?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports XTRA 2 HD AR
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94456?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Global FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94501?checkedby:iptvcat.com
-#EXTINF:-1 ,M- T Sports HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sport",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:iptvcat.com
+#EXTINF:-1 ,IPTV-37-PTV Sports
+http://103.99.249.107:81/play/a02l
+#EXTINF:0 tvg-country="BN" tvg-logo="" group-title="Sport",T Sports HD
 http://103.99.249.107:81/play/a02k
 
 #EXTINF:0 tvg-country="AF" group-title="Ganaral" tvg-language="Pashtu" tvg-logo="https://yt3.ggpht.com/czydJ80yyFt35LH-FIx_mYKSy22IIUxK1vW_J2oAesIjfAiFciVWryA9JMmJrc9LyQbNoFNU2Q=s176-c-k-c0x00ffffff-no-rj",RTA
