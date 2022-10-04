@@ -3,6 +3,10 @@
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qurantvsa
 #EXTINF:0 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sunnatvsa
+#EXTINF:0 tvg-country="OM" tvg-logo="https://assets.peacetv.tv/images/intro/en-logo.png" group-title="Religious",Peace TV English
+https://livestream.peacetv.tv/live/english.smil/chunklist_w1870225372_b414000_sleng.m3u8
+#EXTINF:0 tvg-country="OM" tvg-logo="https://assets.peacetv.tv/images/intro/ba-logo.png" group-title="Religious",Peace TV Bangla
+https://livestream.peacetv.tv/live/bangla.smil/chunklist_w884557868_b414000_sleng.m3u8
 #EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="Religious",Al-Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="EmanChannel.uk" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
@@ -89,14 +93,13 @@ http://103.99.249.107:81/play/a006
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94498?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM HD AR
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94494?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeiN Sports 3 AR
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeiN Sports 3 
 http://103.99.249.107:81/play/a02d
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94494?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 AR
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94472?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 AR
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94468?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 AR
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94464?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports XTRA 1 HD AR
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94459?checkedby:iptvcat.com
@@ -104,10 +107,28 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94459?checkedby:iptvcat.com
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94456?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sport",Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:iptvcat.com
-#EXTINF:-1 ,IPTV-37-PTV Sports
+#EXTINF:0 tvg-country="BN" tvg-logo="" group-title="Sport",PTV Sports
 http://103.99.249.107:81/play/a02l
 #EXTINF:0 tvg-country="BN" tvg-logo="" group-title="Sport",T Sports HD
 http://103.99.249.107:81/play/a02k
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",DISNEY (INTERNEXA)
+http://181.176.148.142:8000/play/a02b
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",DISNEY JR (INTERNEXA)
+http://103.99.249.107:81/play/a01h
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",33-Nick HD+
+http://103.99.249.107:81/play/a02u
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",INCL_NICK BANGLA
+http://103.99.249.107:81/play/a03g
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",INCL_SONY YAY BANGLA
+http://103.99.249.107:81/play/a02u
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",Discovery Kids
+http://103.162.136.235:4500/play/a01j/index.m3u8
 
 #EXTINF:0 tvg-country="AF" group-title="Ganaral" tvg-language="Pashtu" tvg-logo="https://yt3.ggpht.com/czydJ80yyFt35LH-FIx_mYKSy22IIUxK1vW_J2oAesIjfAiFciVWryA9JMmJrc9LyQbNoFNU2Q=s176-c-k-c0x00ffffff-no-rj",RTA
 http://51.210.227.133/hls/stream.m3u8
