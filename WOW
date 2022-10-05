@@ -48,7 +48,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://play-lh.googleusercontent.com/HB_K5ZUcWFfYBcST4buqJ_Oq3g16g4F8jbWLV3jrytGLcWks9ld0R_8ccdxDS_9gqPyP",Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
-http://103.162.136.235:4500/play/a008/index.m3u8
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG"Investigation Discovery
+http://103.99.249.107:81/play/a013
 #EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bengali
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Infotainment",National Geographic Abu Dhabi
@@ -64,7 +66,7 @@ https://tv.googledrivelinks.com/live.php?c=History_18_Hindi&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="568" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
 https://tv.googledrivelinks.com/live.php?c=Discovery_Science&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-6OoK1vqefumQnIGPodyy48E9d5QRs1p2AyPRx67g=s900-c-k-c0x00ffffff-no-rj" group-title="Infotainment",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",TLC Hindi
 http://103.99.249.107:81/play/a00h
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
@@ -113,18 +115,29 @@ https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?chec
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/9e/MBC3_Logo.jpg/revision/latest?cb=20191223065301" group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",DISNEY (INTERNEXA)
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ytimg.com/vi/lvBDnfdinc4/maxresdefault.jpg",DISNEY (INTERNEXA)
 http://181.176.148.142:8000/play/a02b
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",DISNEY JR (INTERNEXA)
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+
 http://103.99.249.107:81/play/a01h
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",33-Nick HD+
-http://103.99.249.107:81/play/a02u
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",INCL_NICK BANGLA
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",NICK BANGLA
 http://103.99.249.107:81/play/a03g
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",INCL_SONY YAY BANGLA
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay.png" group-title="Kids",SONY YAY BANGLA
 http://103.99.249.107:81/play/a02u
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",Discovery Kids
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids.png" group-title="Kids",Discovery Kids
 http://103.162.136.235:4500/play/a01j/index.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="Entertainment",MBC
+https://iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="Entertainment",MBC 2 HD
+https://iptvcat.com/my_list/s/83decbfb9496eb9ed43dd17370b041c1.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="Entertainment",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="Entertainment",MBC Bollywood
+https://iptvcat.com/my_list/s/0c4937d84883eefaeb06a60f1dfbe088.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="Entertainment",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:iptvcat.com
+
+
+
 
 #EXTINF:0 tvg-country="SA" group-title="Ganaral" tvg-language="Arabic" tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png",As Saudia
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/saudiatv
