@@ -49,7 +49,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
-#EXTINF:0 group-title="Infotainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png"Investigation Discovery
+#EXTINF:0 group-title="Infotainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",Investigation Discovery
 http://103.99.249.107:81/play/a013
 #EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bengali
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
