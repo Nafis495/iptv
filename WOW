@@ -49,7 +49,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG"Investigation Discovery
+#EXTINF:0 group-title="Infotainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png"Investigation Discovery
 http://103.99.249.107:81/play/a013
 #EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bengali
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
@@ -79,9 +79,9 @@ http://103.99.249.107:81/play/a00c
 http://103.99.249.107:81/play/a01d
 #EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sport",Star Sports Select 2 HD
 http://103.99.249.107:81/play/a01e
-#EXTINF:0 tvg-country="IN" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png"Sport",Sony Six HD
+#EXTINF:0 tvg-country="IN" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png"  group-title="Sport",Sony Six HD
 http://103.99.249.107:81/play/a03o
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="Sport",SONY TEN 1 HD
+#EXTINF:0 tvg-country="IN" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sport",SONY TEN 1 HD
 http://103.99.249.107:81/play/a00b
 #EXTINF:0 tvg-country="IN" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HDNew_Masthead_Logo.png" group-title="Sport",SONY TEN 2 HD
 http://103.99.249.107:81/play/a01f
