@@ -11,6 +11,8 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 https://live.islamchannel.tv/islamtv_english/live.m3u8
 #EXTINF:0 tvg-id="IqraaArabic.sa" tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Religious",Iqraa (576p) [Not 24/7]
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="General",Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://th.bing.com/th/id/OIP.dvtGx--uL-Mmtx1cWQaWvwHaFj?w=151&h=129&c=7&r=0&o=5&dpr=1.25&pid=1.7" group-title="News",BBC Arabic 
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Aljazeera English
@@ -49,13 +51,15 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bengali
+#EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bangla
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Infotainment",National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="527" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
+https://tv.googledrivelinks.com/live.php?c=ID.PNG&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
 http://103.99.249.107:81/play/a015
 #EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="https://e7.pngegg.com/pngimages/602/693/png-clipart-nat-geo-wild-national-geographic-television-show-television-channel-others-miscellaneous-television.png",Nat Geo Wild HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Infotainment",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 http://103.162.136.235:4500/play/a01c/index.m3u8
 #EXTINF:0 tvg-id="852" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
 http://103.99.249.107:81/play/a019
@@ -103,17 +107,17 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94459?checkedby:iptvcat.com
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94456?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/YasTV-2.png" group-title="Sport",Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sport",PTV Sports
 http://103.99.249.107:81/play/a02l
 #EXTINF:0 tvg-country="BN" tvg-logo="https://www.tsports.com/public/images/logo.png" group-title="Sport",T Sports HD
 http://103.99.249.107:81/play/a02k
-#EXTINF:0 tvg-country="AE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhuu-fokgxi5L7HL1vvU_ZOFZigwz8yo67S4w1lfw=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Majid TV
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="1079" group-title="Kids" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+https://tv.googledrivelinks.com/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/9e/MBC3_Logo.jpg/revision/latest?cb=20191223065301" group-title="Kids",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ytimg.com/vi/lvBDnfdinc4/maxresdefault.jpg",DISNEY
 http://181.176.148.142:8000/play/a02b
 #EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+
 http://103.99.249.107:81/play/a01h
@@ -124,6 +128,8 @@ https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="872" group-title="Kids" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
 https://tv.googledrivelinks.com/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="554" group-title="Kids" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids Hindi
+#EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc.png" group-title="Entertainment",MBC
+https://iptvcat.com/my_list/s/55a080b841d910d9608e36316892582d.m3u8
 https://tv.googledrivelinks.com/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="Entertainment",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
@@ -131,9 +137,89 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://iptvcat.com/my_list/s/0c4937d84883eefaeb06a60f1dfbe088.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="Entertainment",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:iptvcat.com
-
-
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Entertainmen",ATV  HD TR
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="Entertainmen",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+http://103.99.249.107:81/play/a00u
+#EXTINF:-1 tvg-id="165" group-title="Entertainmen" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://103.99.249.107:81/play/a014
+#EXTINF:-1 tvg-id="" group-title="Entertainmen" tvg-language="Hindi" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Cafe-HD.png",Zee Cafe HD
+http://103.99.249.107:81/play/a00p
+#EXTINF:-1 tvg-id="1977" group-title="Entertainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
+http://103.99.249.107:81/play/a01a
+#EXTINF:-1 tvg-id="685" group-title="Entertainmen" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://103.99.249.107:81/play/a00w
+#EXTINF:-1 tvg-id="476" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+http://103.99.249.107:81/play/a009
+#EXTINF:-1 tvg-id="762" group-title="Movies" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+http://103.99.249.107:81/play/a01b
+#EXTINF:-1 tvg-id="471" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+https://tv.googledrivelinks.com/live.php?c=Sony_SAB_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="697" group-title="Entertainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",Sony aath
+http://103.99.249.107:81/play/a00f
+#EXTINF:-1 tvg-id="156" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
+http://103.99.249.107:81/play/a016
+#EXTINF:-1 tvg-id="158" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+http://103.99.249.107:81/play/a00t
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-language="English" tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",Star Movies HD
+http://103.99.249.107:81/play/a00o
+#EXTINF:-1 tvg-id="317" group-title="Entertainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD
+http://103.99.249.107:81/play/a00l
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Jalsha Movies HD
+http://103.99.249.107:81/play/a00k
+#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://103.99.249.107:81/play/a00v
+#EXTINF:-1 tvg-id="1158" group-title="Entertainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+http://103.99.249.107:81/play/a01g
+#EXTINF:-1 tvg-id="1477" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1369" group-title="Entertainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",Colors Bangla HD
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-language="English" tvg-logo="https://www.logo.wine/a/logo/HBO/HBO-Logo.wine.svg",HBO
+http://103.99.249.107:81/play/a080
+#EXTINF:-1 tvg-id="1145" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+https://tv.googledrivelinks.com/live.php?c=MTV_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="592" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
+https://tv.googledrivelinks.com/live.php?c=Zoom&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="440" group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
+https://tv.googledrivelinks.com/live.php?c=9X_Jalwa&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",gan bangla
+http://103.159.4.38:9191/CH28-INBD7/index.m3u8
+#EXTINF:-1 tvg-id="LemarTV.af" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" group-title="Entertainment",Lemar TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
+#EXTINF:-1 tvg-id="FazaTV.af" tvg-logo="https://yt3.ggpht.com/6CZ--bEnwUoZimPewiF83cLnOGaDXDwB5-st4pPvdzwo3EvpQo-hxixJCMTS6OkAsnyTIBvIIA=s176-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Faza TV (720p)
+https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.pinimg.com/originals/e0/67/47/e06747bc91a2a24b030958539cadfdfe.jpg",Asian TV HD
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://yt3.ggpht.com/a/AATXAJwpp9LSJFJKPRLbt5xME0OyhjrUYQaOl_TZ0A=s900-c-k-c0xffffffff-no-rj-mo",ATN Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://th.bing.com/th/id/OIP.xqFt-N3JoE8W2SDa6p0y2QHaEd?pid=ImgDet&w=768&h=462&rs=1",Banglavision HD
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://yt3.ggpht.com/-OcibXCnPA8Q/AAAAAAAAAAI/AAAAAAAAAAA/HVFUDvBx-UU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Boishakhi TV HD
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.pinimg.com/474x/29/00/aa/2900aad69fae11fe3e2519fa5fe37649.jpg",Maasranga TV HD
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://th.bing.com/th/id/OIP.AItknwIUy3QwXYuEV-bUVQHaFj?pid=ImgDet&rs=1",RTV HD
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="Premium Telco" tvg-logo="https://yt3.ggpht.com/a-/AN66SAxuCnJe8xkgRkprZzt3Vlg882oYnvtwkf03eA=s900-mo-c-c0xffffffff-rj-k-no",SA tv 
+http://208.86.19.13:81/613.stream/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://th.bing.com/th/id/OIP.G_AKvdsC7pxoJ3TrMTqasgAAAA?pid=ImgDet&rs=1",Mohona TV HD
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:0 tvg-country="SA" group-title="Ganaral" tvg-language="Arabic" tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png",As Saudia
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/saudiatv
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="General",Emarat TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ToloTV.af" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/TOLO_TV_logo_2016.png" group-title="General",Tolo TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+#EXTINF:-1 tvg-id="ArianaTVNational.af" tvg-logo="https://th.bing.com/th/id/R.22b6557ac38472e9617b7383010121f2?rik=FcZYTYOD2qNVOQ&riu=http%3a%2f%2fposhakistanbul.af%2fassets%2fimages%2fposts%2f159091910076777.png&ehk=gsm8krYFv38onKsY1Wp3FZdXMFgFYBJu%2bIXNbHmLCic%3d&risl=&pid=ImgRaw&r=0" group-title="Ganaral",Ariana TV National (720p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:0 tvg-country="AF" group-title="Ganaral" tvg-language="Pashtu" tvg-logo="https://yt3.ggpht.com/czydJ80yyFt35LH-FIx_mYKSy22IIUxK1vW_J2oAesIjfAiFciVWryA9JMmJrc9LyQbNoFNU2Q=s176-c-k-c0x00ffffff-no-rj",RTA
 http://51.210.227.133/hls/stream.m3u8
