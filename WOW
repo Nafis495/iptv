@@ -15,7 +15,7 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://th.bing.com/th/id/OIP.dvtGx--uL-Mmtx1cWQaWvwHaFj?w=151&h=129&c=7&r=0&o=5&dpr=1.25&pid=1.7" group-title="News",BBC Arabic 
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Aljazeera English
+#EXTINF:0 tvg-country="UN" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/osaawandetdzxfen3ldz" group-title="News",Aljazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="QA" tvg-logo="https://th.bing.com/th/id/R.82c1eb6806da14306632d680a3402cb7?rik=1qyzwtI2XZgdng&riu=http%3a%2f%2fmubasher.saddek.com%2fimages%2fAljazeera-arabic.jpg&ehk=hBrgPDj2OEMNDn4oHIot42xE8QQ1rQeNHz%2fLD9zd5a4%3d&risl=&pid=ImgRaw&r=0" group-title="News",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
@@ -54,13 +54,13 @@ https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bangla
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="527" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
-https://list.iptvcat.com/my_list/s/95af3da88a2ee000dfe079b313a3fc91.m3u8
+http://103.99.249.107:81/play/a013
 #EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
 http://103.99.249.107:81/play/a015
 #EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="https://e7.pngegg.com/pngimages/602/693/png-clipart-nat-geo-wild-national-geographic-television-show-television-channel-others-miscellaneous-television.png",Nat Geo Wild HD
+http://103.162.136.235:4500/play/a01c/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Infotainment",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-http://103.162.136.235:4500/play/a01c/index.m3u8
 #EXTINF:0 tvg-id="852" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
 http://103.99.249.107:81/play/a019
 #EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
@@ -139,11 +139,11 @@ http://livesportslinks.zapto.org/hls/duranta.m3u8
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
 #EXTINF:0 tvg-country="AF;DZ;AM;AU;BH;KH;EG;FI;ID;IQ;PS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="Entertainment",MBC
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="Entertainment",MBC 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="Entertainment",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Entertainment",MBC 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;BH;CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/512px-MBC_Bollywood_TV_Channel_Logo.png" group-title="Entertainment",MBC Bollywood 
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="Entertainment",MBC Drama
