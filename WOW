@@ -52,27 +52,29 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m
 #EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bangla
-https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
+http://103.99.249.107:81/play/a00m
 #EXTINF:-1 tvg-id="527" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
 http://103.99.249.107:81/play/a013
-#EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
-http://103.99.249.107:81/play/a015
-#EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="https://e7.pngegg.com/pngimages/602/693/png-clipart-nat-geo-wild-national-geographic-television-show-television-channel-others-miscellaneous-television.png",Nat Geo Wild HD
-http://103.162.136.235:4500/play/a01c/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Infotainment",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://www.mandelawashingtonfellowship.org/wp-content/uploads/2021/02/National-Geographic-Logo-768x576.png" group-title="Infotainment" tvg-language="Bengali",National Geographic Bangla
+http://103.99.249.107:81/play/a00n
+#EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
+http://103.99.249.107:81/play/a015
 #EXTINF:0 tvg-id="852" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
 http://103.99.249.107:81/play/a019
-#EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
-https://tv.googledrivelinks.com/live.php?c=History_18_Hindi&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="568" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
 https://tv.googledrivelinks.com/live.php?c=Discovery_Science&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-6OoK1vqefumQnIGPodyy48E9d5QRs1p2AyPRx67g=s900-c-k-c0x00ffffff-no-rj" group-title="Infotainment",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
+http://103.99.249.107:81/play/a017
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC
 http://103.99.249.107:81/play/a00h
-#EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
+#EXTINF:0 tvg-id="" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
 https://tv.googledrivelinks.com/live.php?c=Travel_XP&q=1200&e=junk.m3u8
+#EXTINF:0 tvg-id="" group-title="Infotainment" tvg-language="Bengali" tvg-logo="https://th.bing.com/th/id/OIP.7TMpZ3Eb9nw21JXRUmZbJQHaCw?pid=ImgDet&rs=1",Fox life HD
+http://103.99.249.107:81/play/a01p
 #EXTINF:0 tvg-country="IN" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-1-logo-300x300.jpg" group-title="Sport",Star Sports 1 HD
 http://103.99.249.107:81/play/a00d
 #EXTINF:0 tvg-country="IN" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sport",Star Sports 2 HD
@@ -127,7 +129,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/2560px-Disney_wordmark.svg.png",Disney
 http://181.176.148.142:8000/play/a02b
-#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+
+#EXTINF:0 tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+
 http://103.99.249.107:81/play/a01h
 #EXTINF:-1 tvg-id="872" group-title="Kids" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
 https://tv.googledrivelinks.com/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
