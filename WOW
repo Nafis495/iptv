@@ -55,9 +55,9 @@ http://103.99.249.107:81/play/a00m
 http://103.99.249.107:81/play/a013
 #EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Infotainment",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://www.mandelawashingtonfellowship.org/wp-content/uploads/2021/02/National-Geographic-Logo-768x576.png" group-title="Infotainment" tvg-language="Bengali",National Geographic Bangla
+#EXTINF:0 tvg-country="IN" tvg-logo="https://www.mandelawashingtonfellowship.org/wp-content/uploads/2021/02/National-Geographic-Logo-768x576.png" group-title="Infotainment" tvg-language="Bengali",National Geographic [BN]
 http://103.99.249.107:81/play/a00n
-#EXTINF:0 tvg-id="" group-title="Infotainment" tvg-logo="https://wallpapercave.com/wp/wp8223391.jpg",,Nat Geo Wild HD
+#EXTINF:0 tvg-id="" group-title="Infotainment" tvg-logo="https://th.bing.com/th/id/OIP.fLGTPPiayG1-jWgQxeg_AgAAAA?pid=ImgDet&w=269&h=151&rs=1",Nat Geo Wild HD
 http://103.99.249.107:81/play/a008
 #EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
 http://103.99.249.107:81/play/a015
@@ -149,12 +149,11 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="Entertainment",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;BH;CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/512px-MBC_Bollywood_TV_Channel_Logo.png" group-title="Entertainment",MBC Bollywood 
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="Entertainment",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.bing.com/th?id=OSK.7af6a4fe6b13eca12cf77c05c9be2b20&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" group-title="Entertainment",ATV  HD TR
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.bing.com/th?id=OSK.7af6a4fe6b13eca12cf77c05c9be2b20&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" group-title="Entertainment",ATV HD TR
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="Entertainment",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
