@@ -49,9 +49,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://play-lh.googleusercontent.com/HB_K5ZUcWFfYBcST4buqJ_Oq3g16g4F8jbWLV3jrytGLcWks9ld0R_8ccdxDS_9gqPyP",Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:0 tvg-id="463" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
-https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bangla
+#EXTINF:0 tvg-id="573" group-title="Infotainment" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery HD [BN]
 http://103.99.249.107:81/play/a00m
 #EXTINF:-1 tvg-id="527" group-title="Infotainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
 http://103.99.249.107:81/play/a013
@@ -59,6 +57,8 @@ http://103.99.249.107:81/play/a013
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://www.mandelawashingtonfellowship.org/wp-content/uploads/2021/02/National-Geographic-Logo-768x576.png" group-title="Infotainment" tvg-language="Bengali",National Geographic Bangla
 http://103.99.249.107:81/play/a00n
+#EXTINF:0 tvg-id="" group-title="Infotainment" tvg-logo="https://wallpapercave.com/wp/wp8223391.jpg",,Nat Geo Wild HD
+http://103.99.249.107:81/play/a008
 #EXTINF:0 tvg-id="286" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
 http://103.99.249.107:81/play/a015
 #EXTINF:0 tvg-id="852" group-title="Infotainment" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
@@ -95,22 +95,22 @@ http://103.99.249.107:81/play/a006
 http://103.121.14.18/hls/ten.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://aimages.willow.tv/newuiimgs/willowlogo_white_2xIcon.png" group-title="Sport",WILLOW
 http://quality-restream.com:8080/live/asadmanzur/39e379b23d/2372.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sport",beIN Sports 1 PREMIUM HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94498?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Sport",beIN Sports 2 PREMIUM HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Sport",beIN Sports 1 
+http://1tv1.net:8080/live/01007888688/28464975/112461.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Sport",beIN Sports 2 
+http://1tv1.net:8080/live/01007888688/28464975/112462.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Sport",BeiN Sports 3 
-http://103.99.249.107:81/play/a02d
+http://1tv1.net:8080/live/01007888688/28464975/112463.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Sport",beIN Sports 4 
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94472?checkedby:iptvcat.com
+http://1tv1.net:8080/live/01007888688/28464975/15557.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="Sport",beIN Sports 5 
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94468?checkedby:iptvcat.com
+http://1tv1.net:8080/live/01007888688/28464975/15556.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="Sport",beIN Sports 6 
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94464?checkedby:iptvcat.com
+http://1tv1.net:8080/live/01007888688/28464975/15555.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="Sport",beIN Sports XTRA 1 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94459?checkedby:iptvcat.com
+http://1tv1.net:8080/live/01007888688/28464975/165086.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="Sport",beIN Sports XTRA 2 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94456?checkedby:iptvcat.com
+http://1tv1.net:8080/live/01007888688/28464975/165087.m3u8
 #EXTINF:0 tvg-country="BN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sport",PTV Sports
 http://103.99.249.107:81/play/a02l
 #EXTINF:0 tvg-country="BN" tvg-logo="https://www.tsports.com/public/images/logo.png" group-title="Sport",T Sports HD
@@ -234,7 +234,7 @@ http://208.86.19.13:81/613.stream/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
 http://103.121.14.18/hls/Gazi-TV.m3u8
-#EXTINF:-1 group-title="National TV" tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif",BTV World
+#EXTINF:-1 group-title="General" tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-country="SA" group-title="General" tvg-language="Arabic" tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png",As Saudia
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/saudiatv
